@@ -6,12 +6,13 @@
 # Required
 
 - Node.js
+- NPM パッケージ
+  - readline-sync
+  - underscore.js
 
 # How to play
 
-```
-$ node diamond.js
-```
+TODO
 
 ## TODO
 
